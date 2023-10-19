@@ -1,0 +1,1 @@
+Release the detached Elastic IP Addresses using Lambda and EventBridge Rule.
